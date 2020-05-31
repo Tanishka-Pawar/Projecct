@@ -1,0 +1,3 @@
+------GitHub------
+1.GitHub is a version control system.
+2.Many people work on one project simultaneously.
